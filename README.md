@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
+<h1 align="center">Hi, I'm Sudhanshu Kumar</h1>
 <h3 align="center">Aspiring Software Engineer | Web & ML Developer</h3>
 
 <p align="center">
@@ -117,7 +117,7 @@
 
 ## 📄 Resume
 
-📎 Check my resume here: :contentReference[oaicite:0]{index=0}
+📎 Check my resume here: [:contentReference[oaicite:0]{index=0}](https://drive.google.com/file/d/1dLIobiQSeW2jK85qlLuYa4thwtWt7wR2/view?usp=sharing)
 
 ---
 
